@@ -1,0 +1,72 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   12.Flood Forecasting using Machine Learning.rar
+#	new file:   12.Flood Forecasting using Machine Learning/12.Flood Forecasting using Machine Learning/FloodForecasting.rar
+#	new file:   FloodForecasting/DB.txt
+#	new file:   FloodForecasting/Dataset/Flood.csv
+#	new file:   FloodForecasting/Dataset/testData.csv
+#	new file:   FloodForecasting/FloodForecast/__init__.py
+#	new file:   FloodForecasting/FloodForecast/__pycache__/__init__.cpython-37.pyc
+#	new file:   FloodForecasting/FloodForecast/__pycache__/__init__.cpython-38.pyc
+#	new file:   FloodForecasting/FloodForecast/__pycache__/settings.cpython-37.pyc
+#	new file:   FloodForecasting/FloodForecast/__pycache__/settings.cpython-38.pyc
+#	new file:   FloodForecasting/FloodForecast/__pycache__/urls.cpython-37.pyc
+#	new file:   FloodForecasting/FloodForecast/__pycache__/urls.cpython-38.pyc
+#	new file:   FloodForecasting/FloodForecast/__pycache__/wsgi.cpython-37.pyc
+#	new file:   FloodForecasting/FloodForecast/__pycache__/wsgi.cpython-38.pyc
+#	new file:   FloodForecasting/FloodForecast/settings.py
+#	new file:   FloodForecasting/FloodForecast/urls.py
+#	new file:   FloodForecasting/FloodForecast/wsgi.py
+#	new file:   FloodForecasting/FloodForecastApp/__init__.py
+#	new file:   FloodForecasting/FloodForecastApp/__pycache__/__init__.cpython-37.pyc
+#	new file:   FloodForecasting/FloodForecastApp/__pycache__/__init__.cpython-38.pyc
+#	new file:   FloodForecasting/FloodForecastApp/__pycache__/admin.cpython-37.pyc
+#	new file:   FloodForecasting/FloodForecastApp/__pycache__/admin.cpython-38.pyc
+#	new file:   FloodForecasting/FloodForecastApp/__pycache__/models.cpython-37.pyc
+#	new file:   FloodForecasting/FloodForecastApp/__pycache__/models.cpython-38.pyc
+#	new file:   FloodForecasting/FloodForecastApp/__pycache__/urls.cpython-37.pyc
+#	new file:   FloodForecasting/FloodForecastApp/__pycache__/urls.cpython-38.pyc
+#	new file:   FloodForecasting/FloodForecastApp/__pycache__/views.cpython-37.pyc
+#	new file:   FloodForecasting/FloodForecastApp/__pycache__/views.cpython-38.pyc
+#	new file:   FloodForecasting/FloodForecastApp/admin.py
+#	new file:   FloodForecasting/FloodForecastApp/apps.py
+#	new file:   FloodForecasting/FloodForecastApp/migrations/__init__.py
+#	new file:   FloodForecasting/FloodForecastApp/migrations/__pycache__/__init__.cpython-37.pyc
+#	new file:   FloodForecasting/FloodForecastApp/migrations/__pycache__/__init__.cpython-38.pyc
+#	new file:   FloodForecasting/FloodForecastApp/models.py
+#	new file:   FloodForecasting/FloodForecastApp/static/images/Thumbs.db
+#	new file:   FloodForecasting/FloodForecastApp/static/images/content_border_bg.png
+#	new file:   FloodForecasting/FloodForecastApp/static/images/fbg_line.gif
+#	new file:   FloodForecasting/FloodForecastApp/static/images/header_images.jpg
+#	new file:   FloodForecasting/FloodForecastApp/static/images/main_bottom_bg.gif
+#	new file:   FloodForecasting/FloodForecastApp/static/images/main_top_bg.gif
+#	new file:   FloodForecasting/FloodForecastApp/static/images/menu_bg.gif
+#	new file:   FloodForecasting/FloodForecastApp/static/images/menu_line.gif
+#	new file:   FloodForecasting/FloodForecastApp/static/images/search.gif
+#	new file:   FloodForecasting/FloodForecastApp/static/images/spacer.gif
+#	new file:   FloodForecasting/FloodForecastApp/static/style.css
+#	new file:   FloodForecasting/FloodForecastApp/templates/Predict.html
+#	new file:   FloodForecasting/FloodForecastApp/templates/Signup.html
+#	new file:   FloodForecasting/FloodForecastApp/templates/UserLogin.html
+#	new file:   FloodForecasting/FloodForecastApp/templates/UserScreen.html
+#	new file:   FloodForecasting/FloodForecastApp/templates/index.html
+#	new file:   FloodForecasting/FloodForecastApp/tests.py
+#	new file:   FloodForecasting/FloodForecastApp/urls.py
+#	new file:   FloodForecasting/FloodForecastApp/views.py
+#	new file:   FloodForecasting/SCREENS.docx
+#	new file:   FloodForecasting/manage.py
+#	new file:   FloodForecasting/req.txt
+#	new file:   FloodForecasting/run.bat
+#	new file:   FloodForecasting/test.py
+#	new file:   Software/npp.7.9.5.Installer.exe
+#	new file:   Software/python-3.8.5-amd64.exe
+#	new file:   Software/winrar-x64-602.exe
+#	new file:   Software/xampp-windows-x64-8.2.0-0-VS16-installer.exe
+#
